@@ -26,4 +26,6 @@
   <br><i>RBBlur[0 or 1]</i> - <code>Radar bg blur(togglable)</code>
 </blockquote>
 
+<br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
+
 <br>Contact email: originalzent1em@gmail.com</p>
