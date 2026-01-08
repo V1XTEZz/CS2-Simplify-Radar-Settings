@@ -11,7 +11,7 @@
   <br><i>RSDynamic[0 or 1]</i> - <code>ON/OFF dynamic scaling of radar (togglable)</code>
   <br><i>RIScale[num]</i> - <code>Icon Size (+0.1 and .25 / .75 until 2)</code>
   <br><i>RSAlt[0 or 1]</i> - <code>Alternative radar size (togglable)</code>
-  <br><i>RAdapt[0 or 1] / RAddictive[0 or 1]</i> - <code>Radar(<i>miniMap</i>) adapt to map</code>
+  <br><i>RAdapt[0 or 1] / RAddictive[0 or 1]</i> - <code>Radar(<i>miniMap</i>) adapt to map (togglable)</code>
   <br><i>RScale[num]</i> - <code>Radar scale (+0.1 and .25 / .75 until 2)</code>
   <br><i>RZoom[num]</i> - <code>Radar zoom (+0.1 and .25 / .75 until 2 [and 0.35])</code>
 </blockquote>
