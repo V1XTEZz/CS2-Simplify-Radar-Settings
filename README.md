@@ -1,4 +1,4 @@
-# CS2-Simplify-Radar-Settings
+# CS2-Simplify-Radar-Settings-v2
   <p>Simple way to modify ur radar</p>
 <br>
 <p>Download and rename to: "SRS" the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre></p>
