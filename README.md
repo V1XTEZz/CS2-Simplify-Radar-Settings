@@ -3,7 +3,7 @@
 <br>
 <p>Download and <b>rename</b> to: "SRS" the config and put it: <pre>...\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</pre></p>
 
-<h3>Get settings:</h3>
+<h3>Check values:</h3>
 <blockquote>
   <b>RInfo</b> - <code>to get current settings</code>
   <br>Add <b>V</b> to command to get current value
